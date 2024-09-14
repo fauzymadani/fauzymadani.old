@@ -37,7 +37,7 @@
   <!-- Most Used Languages -->
 
 
-<p align="right">
+<p align="center">
   <!-- GitHub Readme Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzymadani&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="fauzymadani" />
 </p>
