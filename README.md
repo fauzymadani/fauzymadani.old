@@ -48,7 +48,7 @@
 <br>
 <div align=center>
   
-  <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=fauzymadani&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=fauzymadani&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fauzymadani&theme=tokyonight&card_width=497" alt="GitHub Streak" /></a>
