@@ -25,10 +25,10 @@
 
 <p align="center">
   <!-- Most Used Languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzymadani&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Most Used Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzymadani&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Most Used Languages" />
 </p>
 
-<p align="center">
+<p align="right">
   <!-- GitHub Readme Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzymadani&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="fauzymadani" />
 </p>
