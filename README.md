@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fauzy Madani</h1>
 <h3 align="center">A passionate frontend developer from Indonesia.</h3>
-
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzymadani&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Most Used Languages" />
 </p>
 
