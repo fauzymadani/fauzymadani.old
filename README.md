@@ -34,8 +34,9 @@
 </p>
 
 <!-- Contribution Graph -->
+<!-- Contribution Graph -->
 <p align="center">
   <a href="https://github.com/fauzymadani/github-contribution-graph">
-    <img align="center" src="https://github-contribution-graph.ez4o.com/?username=fauzymadani&bg_color=0d1117&color=c9d1d9&line=79ff97&point=ffffff&theme=react-dark" alt="fauzymadani's Contribution Graph" />
+    <img align="center" width="80%" src="https://github-contribution-graph.ez4o.com/?username=fauzymadani&bg_color=000000&color=c9d1d9&line=79ff97&point=ffffff&theme=react-dark" alt="fauzymadani's Contribution Graph" />
   </a>
 </p>
