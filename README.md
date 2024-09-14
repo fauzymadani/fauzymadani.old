@@ -1,45 +1,62 @@
-<h1 align="center">Hi 👋, I'm Fauzy Madani</h1>
-<h3 align="center">A passionate frontend developer from Indonesia.</h3>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzymadani&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Most Used Languages" />
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fauzymadani.fauzymadani" />
 
-- 🔭 I’m currently working on **Company Profile website.**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fauzy+Madani!;" />
+</h1>
 
-- 🌱 I’m currently learning **C#, C, laravel**
+<h3 align="center">A passionate software developer from Indonesia</h3>
 
-- 👯 I’m looking to collaborate on **Linux kernel development.**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/fauzymadani](https://github.com/fauzymadani)
+<div align="center">
+ 
+ 🔭 I’m currently working on **company profile website**
+ 
+ 🌱 I’m currently learning **Laravel, C#, C**
 
-- 💬 Ask me about **Linux**
+💬 Ask me about **Linux... or anything [here](https://github.com/fauzymadani/fauzymadani/issues)**
 
-- 📫 How to reach me **fauzymadani3@gmail.com**
+⚡ Fun fact **The JAVA language was previously called Oak. It was named after an oak tree that was grown outside James Gosling’s office.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/fauzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fauzy" height="30" width="40" /></a>
-<a href="https://instagram.com/fauzycoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fauzycoders" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fauzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fauzy" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fauzymadani/github-contribution-graph">
-    <img align="center" width="65%" src="https://github-contribution-graph.ez4o.com/?username=fauzymadani&bg_color=000000&color=c9d1d9&line=79ff97&point=ffffff&theme=react-dark" alt="fauzymadani's Contribution Graph" />
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:keperluansekolahfauzy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</p>
+  <!-- add more badges-->
+  <a href="https://fauzymadani.infinityfreeapp.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
+<hr/>
 
-<p align="center">
-  <!-- Most Used Languages -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=fauzymadani&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  
+</div>
 
+<br/><br/>
 
-<p align="center">
-  <!-- GitHub Readme Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzymadani&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="fauzymadani" />
-</p>
+<br/>
 
-<!-- Contribution Graph -->
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
