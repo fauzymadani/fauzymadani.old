@@ -28,5 +28,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzymadani&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Most Used Languages" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauzymadani&" alt="fauzymadani" /></p>
+<p align="center">
+  <!-- GitHub Readme Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzymadani&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="fauzymadani" />
+</p>
 
