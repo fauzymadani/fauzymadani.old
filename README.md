@@ -37,6 +37,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,cs,html,css,vscode,github,figma,tailwind,git,debian,dotnet,docker" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,github,laravel,linux,lua,c,java,neovim,mysql,php,tailwind" /><br>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzymadani&layout=compact&theme=react)
 </div>
 
 <br/>
@@ -46,17 +48,14 @@
 <br>
 <div align=center>
   
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=fauzymadani&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=fauzymadani&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
+  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fauzymadani&theme=tokyonight&card_width=497" alt="GitHub Streak" /></a>
+
+
   
 </div>
 
 <br/><br/>
 
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
