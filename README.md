@@ -9,6 +9,7 @@
 <br/>
 
 <div align="center">
+<img align="center" src="https://github.com/user-attachments/assets/cdce2f10-ab10-4c35-910a-ef324cade967"></img>
  
  🔭 I’m currently working on **company profile website**
  
