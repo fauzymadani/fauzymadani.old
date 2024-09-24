@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,cs,html,css,vscode,github,figma,tailwind,git,debian,dotnet,docker" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,github,laravel,linux,lua,c,java,neovim,mysql,php,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,cs,html,css,vscode,figma,tailwind,git,debian,dotnet,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,github,laravel,linux,lua,c,java,neovim,mysql,php" /><br>
     <br/>
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzymadani&layout=compact&theme=react)
