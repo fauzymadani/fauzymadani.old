@@ -1,5 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fauzymadani.fauzymadani" />
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fauzy+Madani!;" />
 </h1>
@@ -29,6 +30,9 @@
   <a href="https://fauzymadani.infinityfreeapp.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <a href="fauzy_0x0A48BF3C_public.gpg" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/PGP%20Key-0x0A48BF3C-2b2b2b?logo=gnupg&color=white" />
+    </a>
 </div>
 
  <hr/>
