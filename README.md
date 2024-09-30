@@ -33,7 +33,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <a href="fauzy_0x0A48BF3C_public.gpg" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/PGP%20Key-0x0A48BF3C-2b2b2b?logo=gnupg&color=white" />
+        <img src="https://img.shields.io/badge/PGP%20Key-0x0A48BF3C-2b2b2b?logo=gnupg&color=white" />
     </a>
 </div>
 
