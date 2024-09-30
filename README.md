@@ -20,6 +20,8 @@
 
 ⚡ Fun fact **The JAVA language was previously called Oak. It was named after an oak tree that was grown outside James Gosling’s office.**
 
+₿🪙 donate bitcoin to me: bc1q0cg7xarp8dxf24kerrmzws9zjk2qrh08exc7l7
+
  </div>
  
 <div align="center"> 
