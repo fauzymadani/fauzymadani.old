@@ -79,13 +79,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 October 2024 - To: 31 October 2024
+From: 29 October 2024 - To: 01 November 2024
 
-Total Time: 1 hr 48 mins
+Total Time: 3 hrs 13 mins
 
-C      50 mins         ███████████▓░░░░░░░░░░░░░   46.30 %
-Lua    49 mins         ███████████▒░░░░░░░░░░░░░   45.95 %
-PHP    8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Lua              1 hr 42 mins    █████████████▒░░░░░░░░░░░   52.75 %
+C                50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+HTML             21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+PHP              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Scheme           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Blade Template   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
