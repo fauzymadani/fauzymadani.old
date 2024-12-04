@@ -79,19 +79,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 October 2024 - To: 03 December 2024
+From: 29 October 2024 - To: 04 December 2024
 
-Total Time: 45 hrs 18 mins
+Total Time: 48 hrs 6 mins
 
-PHP              19 hrs 51 mins  ███████████░░░░░░░░░░░░░░   43.60 %
-Lua              7 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-conf             4 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-C                3 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Blade Template   3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-Emacs Lisp       1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Bash             50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-HTML             48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-INI              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+PHP              19 hrs 51 mins  ██████████▒░░░░░░░░░░░░░░   41.06 %
+Lua              7 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+conf             5 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+C                3 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Blade Template   3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Markdown         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Emacs Lisp       1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+HTML             52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Bash             50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
