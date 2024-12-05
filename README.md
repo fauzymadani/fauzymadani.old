@@ -78,7 +78,7 @@
 
 <!--START_SECTION:waka-->
 
-```rust
+```txt
 From: 29 October 2024 - To: 04 December 2024
 
 Total Time: 48 hrs 6 mins
