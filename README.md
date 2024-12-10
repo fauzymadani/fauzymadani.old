@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,cs,html,css,vscode,figma,tailwind,git,debian,dotnet,docker" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,github,laravel,linux,lua,c,neovim,mysql,php" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,python,javascript,github,laravel,linux,lua,c,neovim,mysql,php" /><br>
     <br/>
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzymadani&layout=compact&theme=react)
